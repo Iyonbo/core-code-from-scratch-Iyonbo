@@ -3,7 +3,7 @@
 ## 1. Interpreted And Compiled Programming Languages
 
 
-## 2. Is Java compiled or interpreted?
+## 2. Is Java compiled or interpreted
 <i><b> To be, or not to be, that is the question. </b></i>
 
 
