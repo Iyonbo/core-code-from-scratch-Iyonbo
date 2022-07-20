@@ -3,16 +3,16 @@
 
 ## Index
 
-1. [First Week](#1-first-week)
+1. [First Week](#1-first-week "First step...")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
 
 #### - Week challenges (Tuesday)
-[Interpreted And Compiled Programming Languages](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#1-interpreted-and-compiled-programming-languages)
+1. [Interpreted And Compiled Programming Languages](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#1-interpreted-and-compiled-programming-languages "First step of the first step")
 
-[Is Java compiled or interpreted?](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#2-is-java-compiled-or-interpreted)
+2. [Is Java compiled or interpreted?](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#2-is-java-compiled-or-interpreted "That's it")
 
-[Pseudocode Currency Converter exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#3-pseudocode-currency-converter-exercise)
+3. [Pseudocode Currency Converter exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#3-pseudocode-currency-converter-exercise "Just one more...")
 
-[Learn about High and Low level languages](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#4-learn-about-high-and-low-level-languages)
+4. [Learn about High and Low level languages](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week1/tuesday/README.md#4-learn-about-high-and-low-level-languages "This is the end of road")
