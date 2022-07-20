@@ -1,7 +1,7 @@
 # core-code-from-scratch-Iyonbo
 <h1 align="center">Road to fundamentals</h1>
 
-##Index
+## Index
 
 1. [First Week](#1-first-week)
 
