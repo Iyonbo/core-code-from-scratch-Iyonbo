@@ -26,14 +26,33 @@ Here is a diagram that illustrate how each one works.</br>
 ![alt text](/src/technologies/week1/tuesday/compiler_vs_interpreted.png "Hope it works")
 
 <sub>
-  <b>Image Source:</b></br>
+  <b>Source:</b></br>
   Compiled vs. Interpreted programming languages. https://www.altexsoft.com/blog/python-pros-and-cons/
 </sub>
 
 ## 2. Is Java compiled or interpreted
 <i><b> To be, or not to be, that is the question. </b></i>
+<p>
+Computers read instructions through machine language <i>(binary)</i>. For a developer a programming language is needed to write  the instructions in a language understandable to humans, there are low and high level languages, depending on this is easier to understand for humans or is closer to the machine language it can be understandable however, it could be complicated to understand.
+</p>
 
+As explained previosly in the [first item](#1-interpreted-and-compiled-programming-languages "Back to the future") the code that is written in specific language is compiled to create the file understandable by the machine. The compiler review the syntax of the code optimizing it for its execution. On the other hand, the interpreter executes the code directly as its reading.
 
+<p>
+Having said that, the Java programming language is considered <b>both compiler and interpreter</b>. <i>Why? you may ask.</i> This is because Java uses a two-step compilation process, the code written in it is first compiled into bytecode (a more abstract code than machine code, each operation code is one byte long). This is then executed by JVM (Java Virtual Machine) using the JIT Compilation (Just-in-Time) method.
+Now, based on this we have already declared that Java performs a compilation process, so it is recognized as a compiler. So what about the interpreter? Thanks to JIT Compilation, Java can, after its compilation to bytecode, continuously analyze the executed code and identify the code segments that may change. And that is why it is also considered an interpreter.
+</p>
+
+<p>
+To give an illustration, let's look at the image:
+</p>
+
+![alt text](/src/technologies/week1/tuesday/javaCompilerInterpreted.png "Interesting...")
+
+<sub>
+  <b>Source:</b></br>
+  Compiled vs. Interpreted programming languages. https://www.altexsoft.com/blog/python-pros-and-cons/
+</sub>
 
 ## 3. Pseudocode Currency Converter exercise
 
