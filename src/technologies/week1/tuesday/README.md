@@ -50,8 +50,8 @@ To give an illustration, let's look at the image:
 ![alt text](/src/technologies/week1/tuesday/javaCompilerInterpreted.png "Interesting...")
 
 <sub>
-  <b>Source:</b></br>
-  Compiled vs. Interpreted programming languages. https://www.altexsoft.com/blog/python-pros-and-cons/
+   <b>Source:</b></br>
+   Is Java a Compiled or an Interpreted programming language? https://stackoverflow.com/questions/1326071/is-java-a-compiled-or-an-interpreted-programming-language 
 </sub>
 
 ## 3. Pseudocode Currency Converter exercise
