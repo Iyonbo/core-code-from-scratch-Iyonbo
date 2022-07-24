@@ -56,7 +56,43 @@ To give an illustration, let's look at the image:
 
 ## 3. Pseudocode Currency Converter exercise
 
+<p>
+Next we're going to illustrate how a <b>pseudocode</b> works, in this scenario its used to convert dollars to bitcoin. First things first, a <b>pseudocode</b> is an informal way of writing programs, it's a <i>"fake code"</i> that represent the sequence of actions and instructions in a form where humans can easily undestand. Using pseudocode gives the benefit of having a syntax and coding pattern that make a better perspective of what we want to solve.
+</p>
 
+<p>
+Now, back to the problem, here's the <b>pseudocode</b> to convert dollars(USD) to bitcoin(BTC) or the other way, BTC to USD.<br>
+</p>
+
+    1. START
+    2. PRINT("Wich trade do you want to make?")
+    3. PRINT("1. USD to BTC")
+    4. PRINT("2. BTC to USD")
+    5. USDtoBTC <-- GET from (https://www.binance.com/es/convert)
+    6. USD <-- 0.00
+    7. BTC <-- 0.00
+    8. Option <-- GET
+    9. switch (option)
+          case 1:
+            PRINT("How many USD do you trade?")
+            USD <-- GET
+            BTC <-- USD * USDtoBTC
+            PRINT("You have trade " + BTC + " BTC.")
+          break;
+          
+          case 2:
+            PRINT("How many BTC do you trade?")
+            BTC <-- GET
+            USD <-- BTC / USDtoBTC
+            PRINT("You have trade " + USD + " USD.")
+          break;
+          
+          defaul:
+            PRINT("The option you choose doesn't exist.")
+            go to START;
+       
+    10. PRINT("Thanks for using our service.")
+    11. END
 
 ## 4. Learn about High and Low level languages
 
