@@ -96,4 +96,13 @@ Now, back to the problem, here's the <b>pseudocode</b> to convert dollars(USD) t
 
 ## 4. Learn about High and Low level languages
 
+<p>
+  A programming languages are defined as low-level or high-level languages, the level indicates the amount of abstraction between programming languages and machine languages. This, as we defined before, are a set of instructiones executed by machines.
+</p>
 
+| Low-Level | High-Level |
+| ----------- | ----------- |
+| Hard for humans to read, write and modify. | Easy for humans to read, write and modify. |
+| Faster than high-level | Slower in perfomnace |
+| Direct memory management | These are interpreted or compiled |
+| Provides little abstraction | Have dynamic constructs |
