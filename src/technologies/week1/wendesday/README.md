@@ -80,3 +80,91 @@
   
 ## 2. MIPS exercise.
 
+**1. First Exercise. A program that adds two numbers given by the user.**
+
+```assembly
+ .data
+	      number1: .asciiz "\nGive us the first number: "
+	      number2: .asciiz "\nGive us the second number: "
+	      result_message: .asciiz "\nEl resultado es: "
+  .text
+	      main:
+              li $v0, 4
+              la $a0, number1
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t0, $v0
+
+              li $v0, 4
+              la $a0, number2
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t1, $v0
+		
+	            add $t2, $t0, $t1	
+	      
+	            li $v0, 4
+              la $a0 result_message
+              syscall
+	      	      
+              li $v0, 1
+              move $a0, $t2
+              syscall
+```
+The result of the program:<br>
+
+![alt text](/src/technologies/week1/wendesday/MIPS_Calculator.jpg "It's alive!")
+
+If you want to download the file, you can get it for **FREE** [here](/src/technologies/week1/wendesday/mips_addition.asm "Yeah it's free")
+
+---
+
+**2. Second Exercise. A program that display your name.**
+<br>But it has a twist. The program ask the user what's his name, so it's more fun.
+
+```assembly
+
+  .data
+      name_input: .asciiz	 "\nHello, what is your name? "
+      name_welcome: .asciiz	"\nWelcome  "
+      name: .space	20	
+      name_meet: .asciiz	"Nice to meet you!"
+
+  .text
+      main:
+      li $v0, 4
+      la $a0, name_input
+      syscall
+
+      li $v0, 8
+      la $a0, name
+      li $a1, 40
+      syscall
+
+      li $v0, 4
+      la $a0, name_welcome
+      syscall
+
+      li $v0, 4
+      la $a0, name
+      syscall
+
+      li $v0, 4
+      la $a0, name_meet
+      syscall
+
+      li $v0, 10
+      syscall
+```
+
+The result of the program:
+
+![alt text](/src/technologies/week1/wendesday/mips_name.jpg "Hello put_your_name_here!")
+
+If you want to download this file, you can get it [here](/src/technologies/week1/wendesday/mips_name.asm "Yes, again. It's free")
