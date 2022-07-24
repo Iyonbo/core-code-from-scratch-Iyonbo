@@ -21,7 +21,12 @@ You can browse the different challenges of the first week. Each day have its top
 
 1. [Exercise. Your date of birth in the matrix](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/wendesday#1-exercise-your-date-of-birth-in-the-matrix "Happy birthday!")
 
-2.  [ MIPS exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/wendesday#2-mips-exercise "MIPS")
+2. [MIPS exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/wendesday#2-mips-exercise "MIPS")
 
+#### - Week challenges (**Thursday**)
 
+1. [Print special numbers](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/thursday#1-print-special-numbers "Count with me")
 
+2. [Bad Code exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/thursday#2-bad-code-exercise "Fixing bug 001")
+
+3. [Bad Code 2 exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/thursday#3-bad-code-2-exercise "Fixing bug 002")
