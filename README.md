@@ -4,6 +4,7 @@
 ## Index
 
 1. [First Week](#1-first-week "First step...")
+1. [Second Week](#1-second-week "Second week")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
@@ -30,3 +31,22 @@ You can browse the different challenges of the first week. Each day have its top
 2. [Bad Code exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/thursday#2-bad-code-exercise "Fixing bug 001")
 
 3. [Bad Code 2 exercise](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week1/thursday#3-bad-code-2-exercise "Fixing bug 002")
+
+## 2. Second Week
+You can browse the different challenges of the second week. Each day have its topics about what to learn of Javascript structure.
+
+#### - Week challenges (**Monday**)
+
+1. [A little about "if...else"](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week2/Monday#1-statement-ifelse "Ol' reliable")
+
+2. [Know about "for"](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week2/Monday#2-statement-for "That's a bold statemen...")
+
+3. [Read a little about "while"](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week2/Monday#3-statement-while "Infinity loop")
+
+4. [Getting to know "Functions"](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week2/Monday#4-functions-in-javascript "I heard you like functions")
+
+#### - Week challenges (**Tuesday**)
+
+#### - Week challenges (**Wednesday**)
+
+#### - Week challenges (**Thursday**)
