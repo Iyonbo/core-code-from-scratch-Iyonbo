@@ -22,23 +22,48 @@ An example in Javascript is:
 ```
 
 ## 2. Statement "for"
-The for statement creates a loop consisting of three optional expressions, enclosed in parentheses and separated by semicolons, followed by the statement (usually a block statement) to execute within the loop.
+The "for" statement executes a loop consisting of three optional expressions, enclosed in parentheses and separated by semicolons, followed by the statement (usually a block statement) to execute within the loop.
+We use this statement when we need know how many times it's going to be executed or when you need to map an array, for example.
 
 ```javascript
-
+      //Function that adds the numbers from 0 to 8.
+      //0+1+2+3+4+5+6+7+8
+      function sumNumbers(number) {
+        let result;
+        for (let i = 0; i < 9; i++) {
+            result += i;
+        }
+        return result;
+      }
+      
+      console.log(sumNumbers); //result: 36
 ```
 
 ## 3. Statement "while"
-
+The "while" statement creates a loop that executes a specific statement as long as the test condition is true. Evaluate the condition before executing the statement. To put it another way, this conditions will execute until the condition no longer satisfy.<br><br>
+An example in Javascript is:
 
 ```javascript
+      //This will count until it gets to three.
+      let number = 0;
 
+      while (number < 3) {
+        n++;
+      }
+
+      console.log(number); // expected output: 3
 ```
 
 ## 4. Functions in Javascript
-
-
+A JavaScript function is a block of code designed to perform a particular task. The function is executed when "something" invokes it, its commonly said that you call it.<br><br>
+An example in Javascript is:
 
 ```javascript
-
+      //Function is called, return value will end up in addition
+      let addition = myFunction(4, 3);
+      
+      // Function returns the addition of a(4) and b(7)
+      function myFunction(a, b) {
+        return a + b;
+      }
 ```
