@@ -4,7 +4,8 @@
 ## Index
 
 1. [First Week](#1-first-week "First step...")
-1. [Second Week](#2-second-week "Second week")
+2. [Second Week](#2-second-week "Second week")
+3. [Third Week](#3-third-week "The third time's the charm")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
@@ -68,3 +69,13 @@ You can browse the different challenges of the second week. Each day have its to
 3. [Code Wars, Rock Paper Scissors!](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week2/Thursday/README.md#3-rock-paper-scissors "Let's play a little game")
 
 4. [Code Wars, Persisten Bugger](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week2/Thursday/README.md#4-persisten-bugger "Oh, what a bugger..")
+
+## 3. Third Week
+
+#### - Week challenges (**Monday**)
+
+1. [Code Wars, Who likes it?](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Monday/README.md#1-code-wars-who-likes-it "Me like it")
+
+2. [Code Wars, Bit Counting](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Monday/README.md#2-bit-counting "Lets count together")
+
+3. [Code Wars, Your order, please](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Monday/README.md#3-your-order-please "Neat")
