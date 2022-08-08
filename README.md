@@ -79,3 +79,11 @@ You can browse the different challenges of the second week. Each day have its to
 2. [Code Wars, Bit Counting](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Monday/README.md#2-bit-counting "Lets count together")
 
 3. [Code Wars, Your order, please](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Monday/README.md#3-your-order-please "Neat")
+
+#### - Week challenges (**Tuesday**)
+
+1. [Simple Pig Latin](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Tuesday/README.md#1-simple-pig-latin "Oink! or inkoay?")
+
+2. [Counting Duplicates](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Tuesday/README.md#2-counting-duplicates "1, 1, 2, 2, 3, 3...")
+
+3. [Decode The Morse Code](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Tuesday/README.md#3-decode-the-morse-code "-.-. .-.. .. -.-. -.- / .... . .-. .")
