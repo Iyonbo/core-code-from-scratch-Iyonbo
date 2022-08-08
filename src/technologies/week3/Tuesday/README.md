@@ -2,12 +2,12 @@
 
 ## 1. Simple Pig Latin
 
-![alt text](/src/technologies/week3/Monday/who_likes_it.jpg "Like (Y)")
+![alt text](/src/technologies/week3/Tuesday/Simple_Pig_Latin.jpg "Oink! or inkoay?")
 
 ## 2. Counting Duplicates
 
-![alt text](/src/technologies/week3/Monday/Bit_Counting.jpg "1... 2... 3...")
+![alt text](/src/technologies/week3/Tuesday/Counting_Duplicates.jpg "1, 1, 2, 2, 3, 3...")
 
 ## 3. Decode The Morse Code
 
-![alt text](/src/technologies/week3/Monday/Your_order_please.jpg "This goes here, and that there")
+![alt text](/src/technologies/week3/Tuesday/Decode_the_morse_code.jpg "-.-. .-.. .. -.-. -.- / .... . .-. .")
