@@ -2,12 +2,12 @@
 
 ## 1. Valid Parentheses
 
-![alt text](/src/technologies/week3/Tuesday/Simple_Pig_Latin.pg "Oink! or inkoay?")
+![alt text](/src/technologies/week3/Wendesday/Valid_parentheses.jpg "((P)arentheses)")
 
 ## 2. Convert String To Camel Case
 
-![alt text](/src/technologies/week3/Tuesday/Counting_Duplicates.jg "1, 1, 2, 2, 3, 3...")
+![alt text](/src/technologies/week3/Wendesday/String_Camel_Case.jpg "stringToCamelFunction")
 
 ## 3. Unique In Order
 
-![alt text](/src/technologies/week3/Tuesday/Decode_the_morse_code.pg "-.-. .-.. .. -.-. -.- / .... . .-. .")
+![alt text](/src/technologies/week3/Wendesday/Unique_In_Order.jpg "In order")
