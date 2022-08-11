@@ -87,3 +87,11 @@ You can browse the different challenges of the second week. Each day have its to
 2. [Counting Duplicates](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Tuesday/README.md#2-counting-duplicates "1, 1, 2, 2, 3, 3...")
 
 3. [Decode The Morse Code](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Tuesday/README.md#3-decode-the-morse-code "-.-. .-.. .. -.-. -.- / .... . .-. .")
+
+#### - Week challenges (**Wendesday**)
+
+1. [Valid Parentheses](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Wendesday/README.md#1-valid-parentheses "((P)arentheses)")
+
+2. [Convert String To Camel Case](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Wendesday/README.md#2-convert-string-to-camel-case "stringToCamelFunction")
+
+3. [Unique In Order](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Wendesday/README.md#3-unique-in-order "In order")
