@@ -95,3 +95,9 @@ You can browse the different challenges of the second week. Each day have its to
 2. [Convert String To Camel Case](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Wendesday/README.md#2-convert-string-to-camel-case "stringToCamelFunction")
 
 3. [Unique In Order](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Wendesday/README.md#3-unique-in-order "In order")
+
+#### - Week challenges (**Thursday**)
+
+1. [Fold An Array](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Thursday/README.md#1-fold-an-array "Fold an array")
+
+2. [Encrypt This!](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Thursday/README.md#2-encrypt-this "Encrypt this")
