@@ -2,8 +2,8 @@
 
 ## 1. Fold An Array 
 
-![alt text](/src/technologies/week3/Thursday/Valid_parentheses.jpg "((P)arentheses)")
+![alt text](/src/technologies/week3/Thursday/Fold_an_Array.jpg "Fold an array")
 
 ## 2. Encrypt This! 
 
-![alt text](/src/technologies/week3/Thursday/String_Camel_Case.jpg "stringToCamelFunction")
+![alt text](/src/technologies/week3/Thursday/Encrypt_this.jpg "Encrypt this")
