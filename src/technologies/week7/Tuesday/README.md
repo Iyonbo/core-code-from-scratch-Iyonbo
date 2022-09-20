@@ -1,4 +1,4 @@
-<h1 align="center">Week challenges (Monday)</h1>
+<h1 align="center">Week challenges (Tuesday)</h1>
 
 ## Input/Output playground
 
