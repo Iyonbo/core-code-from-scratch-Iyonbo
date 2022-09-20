@@ -7,7 +7,7 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-![alt text](/src/technologies/Week 6/Tuesday/SuareNSum.jpg "Square^N")
+![SuareNSum](https://user-images.githubusercontent.com/70680974/191160036-bf2b0d54-519c-40fb-ae9f-28f89fa190d1.jpg)
 
 ## 2. A Wolf In Sheep's Clothing
 ```
@@ -19,4 +19,4 @@ export function warnTheSheep(queue: string[]): string {
 }
 ```
 
-![alt text](/src/technologies/week3/Monday/AWolfInSheepssClothing.jpg "Meeeeep")
+![AWolfInSheepssClothing](https://user-images.githubusercontent.com/70680974/191159990-b55a46ed-cae6-4e51-b003-027d16898293.jpg)
