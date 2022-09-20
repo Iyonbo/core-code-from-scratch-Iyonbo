@@ -120,3 +120,13 @@ You can browse the different challenges of the second week. Each day have its to
 1. [A Rule Of Divisibility By 13](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Wednesday/README.md#1-a-rule-of-divisibility-by-13 "First 1 then 3.")
 
 2. [Playing With Digits](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Wednesday/README.md#2-playing-with-digits "P14YING")
+
+#### - Week challenges (**Thursday**)
+
+1. [Declare and instantiate classes in TypeScript](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#1-declare-and-instantiate-classes-in-typescript "Learning from Microsoft")
+
+2. [Tile](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#2-tile "Tile from Tile")
+
+3. [Time](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#3-time "Tic Tac")
+
+4. [Rational](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#4-rational "Mmmmh...")
