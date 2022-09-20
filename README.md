@@ -138,3 +138,6 @@ You can browse the different challenges of the second week. Each day have its to
 
 1. [TypeScript Object Oriented Programming](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Monday/README.md#week-challenges-monday "OOP in typeScript")
 
+#### - Week challenges (**Tuesday**)
+
+1. [Input/Output playground](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Tuesday/README.md#week-challenges-tuesday "InOut")
