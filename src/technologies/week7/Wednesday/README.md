@@ -1,6 +1,6 @@
 <h1 align="center">Week challenges (Wednesday)</h1>
 
-##1. Build Tower
+## 1. Build Tower
 
 ```javascript
 export const towerBuilder = (nFloors: number): string[] => {
@@ -19,7 +19,7 @@ export const towerBuilder = (nFloors: number): string[] => {
 ```
 ![alt text](/src/technologies/week7/Wednesday/BuildTower.jpg "LoTR: The Two towers")
 
-##2. Meeting
+## 2. Meeting
 
 ```javascript
 export function meeting(s: string): string {
