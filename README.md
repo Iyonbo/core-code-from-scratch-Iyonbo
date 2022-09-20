@@ -110,6 +110,6 @@ You can browse the different challenges of the second week. Each day have its to
 
 #### - Week challenges (**Tuesday**)
 
-1. [Fold An Array](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#1-squaren-sum "Number^2")
+1. [Square(n) Sum](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#1-squaren-sum "Number^2")
 
-2. [Encrypt This!](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#2-a-wolf-in-sheeps-clothing "Woof woof")
+2. [A Wolf In Sheep's Clothing](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#2-a-wolf-in-sheeps-clothing "Woof woof")
