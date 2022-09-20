@@ -6,6 +6,7 @@
 1. [First Week](#1-first-week "First step...")
 2. [Second Week](#2-second-week "Second week")
 3. [Third Week](#3-third-week "The third time's the charm")
+4. [Sixth Week](#4-sixth-week "We go 6")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
@@ -110,6 +111,6 @@ You can browse the different challenges of the second week. Each day have its to
 
 #### - Week challenges (**Tuesday**)
 
-1. [Square(n) Sum](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#1-squaren-sum "Number^2")
+1. [Square(n) Sum](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week6/Monday#week-6-challenges-monday "Number^2")
 
 2. [A Wolf In Sheep's Clothing](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#2-a-wolf-in-sheeps-clothing "Woof woof")
