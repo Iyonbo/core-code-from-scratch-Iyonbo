@@ -114,3 +114,9 @@ You can browse the different challenges of the second week. Each day have its to
 1. [Square(n) Sum](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/tree/main/src/technologies/week6/Tuesday#1-squaren-sum "Number^2")
 
 2. [A Wolf In Sheep's Clothing](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Tuesday/README.md#2-a-wolf-in-sheeps-clothing "Woof woof")
+
+#### - Week challenges (**Wednesday**)
+
+1. [A Rule Of Divisibility By 13](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Wednesday/README.md#1-a-rule-of-divisibility-by-13 "First 1 then 3.")
+
+2. [Playing With Digits](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Wednesday/README.md#2-playing-with-digits "P14YING")
