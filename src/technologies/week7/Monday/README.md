@@ -19,3 +19,66 @@ We're going to define some terms that are necesary to understand better OPP. Thi
 13. Constructors: Is a special method called whenever you create an objecto useing *new* key-word.
 
 ## Example of OOP
+1. Object
+```javascript
+class videogame{
+    name: string;
+    genre: string;
+    PG: number;
+    releaseYear: number;
+}
+```
+
+2. Encapsulation
+```javascript
+class videogame{
+    public name: string;
+    protected genre: string;
+    public PG: number;
+    public releaseYear: number;
+}
+```
+
+3. Access Modifiers
+```javascript
+class videogame{
+    public name: string;
+    protected genre: string;
+    public PG: number;
+    public releaseYear: number;
+}
+```
+
+4. Instances
+```javascript
+constructor(name: string, genre: string, PG: number, releaseYear: number) = {
+    this.name = name;
+    this.genre = genre;
+    this.PG = PG;
+    this.releaseYear = releaseYear;
+    return 'This game is called' ${this.name}, ' and its frome the genre ' ${this.gnre}, 
+           ' classified into PG:' ${this.PG}, ' and its release year is' ${this.releaseYear}
+}
+```
+
+5. Interfaces
+```javascript
+interface videogame{
+    name: string;
+    genre: string;
+    PG: number;
+    releaseYear: number;
+}
+
+let buyingGame: TheWitcher3 = {
+    name: 'The Withcer 3',
+    genre: 'Action',
+    PG: 16,
+    releaseYear: 2015,
+}
+
+interface TheWitcher3 extends videogame{
+    dlc: 'Blood and wine',
+    console: 'PS4';
+}
+```
