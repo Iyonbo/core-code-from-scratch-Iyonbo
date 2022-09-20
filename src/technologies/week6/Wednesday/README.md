@@ -13,6 +13,7 @@ export function thirt(n: number): number {
   return n == result ? result : thirt(result);
 }
 ```
+![alt text](/src/technologies/week6/Wednesday/rule_divisibility_13.jpg "13")
 
 ## 2. Playing With Digits 
 ```
@@ -28,3 +29,4 @@ export class G964 {
   };
 }
 ```
+![alt text](/src/technologies/week6/Wednesday/playing_with_digits.jpg "A little game.")
