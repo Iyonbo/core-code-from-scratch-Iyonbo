@@ -7,6 +7,7 @@
 2. [Second Week](#2-second-week "Second week")
 3. [Third Week](#3-third-week "The third time's the charm")
 4. [Sixth Week](#4-sixth-week "We go 6")
+5. [Seventh Week](#5-seventh-week "We're almost in the middle")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
@@ -130,3 +131,10 @@ You can browse the different challenges of the second week. Each day have its to
 3. [Time](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#3-time "Tic Tac")
 
 4. [Rational](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week6/Thursday/README.md#4-rational "Mmmmh...")
+
+## 5. Seventh Week
+
+#### - Week challenges (**Monday**)
+
+1. [TypeScript Object Oriented Programming](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Monday/README.md#week-challenges-monday "OOP in typeScript")
+
