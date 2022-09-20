@@ -2,7 +2,7 @@
 
 ## 1. Declare and instantiate classes in TypeScript
 We have done the classes given by Microsoft, learning to declare and instantiate clases.
-![alt text](/src/technologies/week6/Wednesday/rule_divisibility_13.jpg "13")
+![alt text](/src/technologies/week6/Thursday/classesInTypeScript.jpg "Learning a little more")
 
 ## 2. Tile
 ### Description
