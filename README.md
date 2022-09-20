@@ -141,3 +141,9 @@ You can browse the different challenges of the second week. Each day have its to
 #### - Week challenges (**Tuesday**)
 
 1. [Input/Output playground](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Tuesday/README.md#week-challenges-tuesday "InOut")
+
+#### - Week challenges (**Wednesday**)
+
+1. [Build Tower](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Wednesday/README.md#1-build-tower "LoTR: The Two Towers")
+
+2. [Meeting](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Wednesday/README.md#2-meeting "Hi, my name is...")
