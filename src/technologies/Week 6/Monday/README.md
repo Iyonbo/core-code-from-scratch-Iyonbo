@@ -1,10 +1,6 @@
 <h1 align="center">Week 6 Challenges (Monday)</h1>
 
-## 1. Declare variable types in TypeScript.
-
-![alt text](/src/technologies/week3/Monday/who_likes_it.jpg "Like (Y)")
-
-## 2. TypeScript Object Type & TypeScript Union.
+## 1. TypeScript Object Type & TypeScript Union.
 
 ### 1. Exercise
 ```
