@@ -12,4 +12,4 @@ export class Main {
   }
 }
 ```
-
+![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
