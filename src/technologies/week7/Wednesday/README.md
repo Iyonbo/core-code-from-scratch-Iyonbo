@@ -17,7 +17,7 @@ export const towerBuilder = (nFloors: number): string[] => {
   return tower;
 };
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week7/Wednesday/BuildTower.jpg "LoTR: The Two towers")
 
 ##2. Meeting
 
@@ -31,4 +31,4 @@ export function meeting(s: string): string {
     .join('');
 }
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week7/Wednesday/meeting.jpg "Hi, my name is...")
