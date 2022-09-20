@@ -7,7 +7,9 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-## 2. Square(n) Sum.
+![alt text](/src/technologies/Week 6/Tuesday/SuareNSum.jpg "Square^N")
+
+## 2. A Wolf In Sheep's Clothing
 ```
 export function warnTheSheep(queue: string[]): string {
   const wolfPosition = queue.indexOf('wolf');
@@ -16,3 +18,5 @@ export function warnTheSheep(queue: string[]): string {
   return `Oi! Sheep number ${Math.abs(wolfPosition + 1 - queue.length)}! You are about to be eaten by a wolf!`;
 }
 ```
+
+![alt text](/src/technologies/week3/Monday/AWolfInSheepssClothing.jpg "Meeeeep")
