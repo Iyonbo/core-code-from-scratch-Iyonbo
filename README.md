@@ -101,3 +101,9 @@ You can browse the different challenges of the second week. Each day have its to
 1. [Fold An Array](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Thursday/README.md#1-fold-an-array "Fold an array")
 
 2. [Encrypt This!](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week3/Thursday/README.md#2-encrypt-this "Encrypt this")
+
+## 4. Sixth Week
+
+#### - Week challenges (**Monday**)
+
+1. [TypeScript Object Type & TypeScript Union]https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/Week%206/Monday/README.md#1-typescript-object-type--typescript-union "Typescript")
