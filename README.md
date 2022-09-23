@@ -162,6 +162,14 @@ You can browse the different challenges of the second week. Each day have its to
 
 #### - Week challenges (**Wednesday**)
 
+1. [Make the Deadfish Swim](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Wendesday/README.md#1-make-the-deadfish-swim "Glup... glup...")
+
+2. [Duplicate Encoder](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Wendesday/README.md#2-duplicate-encoder "Duplicate encoder encoder")
+
+3. [Find the odd int](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Wendesday/README.md#3-find-the-odd-int "That's odd...")
+
+4. [Wich are in?](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Wendesday/README.md#4-wich-are-in "Wich are in?")
+
 #### - Week challenges (**Thursday**)
 
 
