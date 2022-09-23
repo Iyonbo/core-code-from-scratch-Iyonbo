@@ -101,5 +101,5 @@ export class LinkedList<T> {
 
 I've finished the exercise from Microsoft, learning how to define generics in TypeScript. You should, learn it too [here](https://docs.microsoft.com/en-us/learn/modules/typescript-develop-typed-functions/).
 
-![alt text](/src/technologies/week8/Tuesday/ExcerciseCompletedInterface.jpg "I did it!")
-![alt text](/src/technologies/week8/Tuesday/KnowledgeCheckTuesday.jpg "Knowledge, check!")
+![alt text](/src/technologies/week8/Thursday/exerciseCompletedGenerics.jpg "I did it!")
+![alt text](/src/technologies/week8/Thursday/KnowledgeCheckThursday.jpg "Knowledge, check!")
