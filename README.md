@@ -8,6 +8,7 @@
 3. [Third Week](#3-third-week "The third time's the charm")
 4. [Sixth Week](#4-sixth-week "We go 6")
 5. [Seventh Week](#5-seventh-week "We're almost in the middle")
+6. [Eighth Week](#6-eighth-week "Keep going!")
 9. [Scrum Certified](#9-scrum-certified "We're almost in the middle")
 
 ## 1. First Week
@@ -152,6 +153,16 @@ You can browse the different challenges of the second week. Each day have its to
 #### - Week challenges (**Thursday**)
 
 1. [Interfaces in Typescript](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Thursday/README.md#week-challenges-thursday "Interfaces")
+
+## 6. Eighth Week
+
+#### - Week challenges (**Tuesday**)
+
+1. [Develop typed functions by using TypeScript](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Tuesday/README.md#week-challenges-tuesday "We're almost over.")
+
+#### - Week challenges (**Wednesday**)
+
+#### - Week challenges (**Thursday**)
 
 
 ## 9. Scrum Certified
