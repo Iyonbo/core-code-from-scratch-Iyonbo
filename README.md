@@ -8,6 +8,7 @@
 3. [Third Week](#3-third-week "The third time's the charm")
 4. [Sixth Week](#4-sixth-week "We go 6")
 5. [Seventh Week](#5-seventh-week "We're almost in the middle")
+9. [Scrum Certified](#9-scrum-certified "We're almost in the middle")
 
 ## 1. First Week
 You can browse the different challenges of the first week. Each day have its topics about what I learn from the basics of programming.
@@ -147,3 +148,12 @@ You can browse the different challenges of the second week. Each day have its to
 1. [Build Tower](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Wednesday/README.md#1-build-tower "LoTR: The Two Towers")
 
 2. [Meeting](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Wednesday/README.md#2-meeting "Hi, my name is...")
+
+#### - Week challenges (**Thursday**)
+
+1. [Interfaces in Typescript](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week7/Thursday/README.md#week-challenges-thursday "Interfaces")
+
+
+## 9. Scrum Certified
+I'm happy to share I've finish my course: Trained in Scrum Essentials (TSE) from Scrum Network!
+![alt text](/src/technologies/week7/Thursday/ScrumEssentialCertified.jpg "Scrum essential certified")
