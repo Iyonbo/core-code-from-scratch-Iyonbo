@@ -172,6 +172,9 @@ You can browse the different challenges of the second week. Each day have its to
 
 #### - Week challenges (**Thursday**)
 
+1. [Define generics in TypeScript](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Thursday/README.md#1-define-generics-in-typescript "Generics in Typescript")
+
+2. [Generics](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Thursday/README.md#2-generics "Generics with Microsoft")
 
 ## 9. Scrum Certified
 I'm happy to share I've finish my course: Trained in Scrum Essentials (TSE) from Scrum Network!
