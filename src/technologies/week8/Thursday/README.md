@@ -97,7 +97,7 @@ export class LinkedList<T> {
 }
 ```
 
-## 2. Define generics in TypeScript
+## 2. Generics
 
 I've finished the exercise from Microsoft, learning how to define generics in TypeScript. You should, learn it too [here](https://docs.microsoft.com/en-us/learn/modules/typescript-generics/).
 
