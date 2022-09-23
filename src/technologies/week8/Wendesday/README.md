@@ -26,9 +26,9 @@ export function parse(data: string): number[] {
   return result;
 }
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week8/Wendesday/deadfishSwim.jpg "glup... glup...")
 
-## 2. Make the Deadfish Swim
+## 2. Duplicate Encoder
 ```javascript
 export function duplicateEncode(word: string) {
   return word
@@ -38,7 +38,7 @@ export function duplicateEncode(word: string) {
     }).join('');
 }
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week8/Wendesday/duplicateEncoder.jpg "Duplicate Encoder")
 
 ## 3. Find the odd int
 ```javascript
@@ -52,7 +52,7 @@ export function findOdd(xs: number[]): number {
   );
 }
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week8/Wendesday/oddInt.jpg "That's odd...")
 
 ## 4. Wich are in?
 
@@ -69,4 +69,4 @@ export function inArray(a1: string[], a2: string[]): string[] {
   return Array.from(set).sort()
 }
 ```
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
+![alt text](/src/technologies/week8/Wendesday/wichAreIn.jpg "Wich are in?")
