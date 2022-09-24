@@ -9,6 +9,7 @@
 4. [Sixth Week](#4-sixth-week "We go 6")
 5. [Seventh Week](#5-seventh-week "We're almost in the middle")
 6. [Eighth Week](#6-eighth-week "Keep going!")
+7. [Ninth Week](#7-ninth-week "# TicTacToe")
 9. [Scrum Certified](#9-scrum-certified "We're almost in the middle")
 
 ## 1. First Week
@@ -176,6 +177,12 @@ You can browse the different challenges of the second week. Each day have its to
 
 2. [Generics](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week8/Thursday/README.md#2-generics "Generics with Microsoft")
 
+## 7. Ninth Week
+
+1. [TicTacToe](https://github.com/Iyonbo/core-code-from-scratch-Iyonbo/blob/main/src/technologies/week9/Monday/README.md#week-challenges-monday "# TicTacToe")
+
 ## 9. Scrum Certified
 I'm happy to share I've finish my course: Trained in Scrum Essentials (TSE) from Scrum Network!
 ![alt text](/src/technologies/week7/Thursday/ScrumEssentialCertified.jpg "Scrum essential certified")
+
+
