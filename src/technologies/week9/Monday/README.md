@@ -1,7 +1,7 @@
 <h1 align="center">Week challenges (Monday)</h1>
 
 ## TicTacToe
-
+![alt text](/src/technologies/week9/Monday/TicTacToe.jpg "#")
 ### Main.ts
 ```javascript
 import TicTacToe from './models/TicTacToe';
@@ -443,5 +443,3 @@ import Main from './Main';
 const program = new Main();
 program.start();
 ```
-
-![alt text](/src/technologies/week7/Tuesday/inputoutput.jpg "Input/Output")
